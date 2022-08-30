@@ -1,1 +1,1 @@
-The readme for git projet
+Updating git readme manual!
